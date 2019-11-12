@@ -38,4 +38,4 @@ The script will output the latest tested payload, Canary, EBP and return address
 
 
 # Post
-I wrote a post about this script ![here](https://posts.xh4h.com/python/2019/08/09/bruteforce64bits.html)
+I wrote a post about this script [here](https://posts.xh4h.com/python/2019/08/09/bruteforce64bits.html)
