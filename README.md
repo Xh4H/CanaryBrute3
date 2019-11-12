@@ -31,4 +31,4 @@ Since this is made for python 3, please run it with `python3`. No command line a
 # Output
 The script will output the latest tested payload, Canary, EBP and return address hexadecimal addresses and time needed to bruteforce:
 
-<div style="text-align:center"><img src="/assets/images/brute-1.png" /></div>
+![](/assets/images/brute-1.png?raw=true)
