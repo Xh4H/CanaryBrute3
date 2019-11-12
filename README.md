@@ -1,5 +1,5 @@
 # CanaryBrute3
-A simple script to brtueforce 64 bits binaries with python 3
+A simple script to bruteforce 64 bits binaries with python 3.
 
 # Before using
 **Please** read the code as I have left comments indicating what needs to be changed.
