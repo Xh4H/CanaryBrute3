@@ -1,6 +1,9 @@
 # CanaryBrute3
 A simple script to brtueforce 64 bits binaries with python 3
 
+# Before using
+**Please** read the code as I have left comments indicating what needs to be changed.
+
 
 # Introduction
 I wanted to share with you a script made in Python 3 without pwntools (pwntools has a dev3 branch which supports python3).
@@ -32,3 +35,7 @@ Since this is made for python 3, please run it with `python3`. No command line a
 The script will output the latest tested payload, Canary, EBP and return address hexadecimal addresses and time needed to bruteforce:
 
 ![](https://posts.xh4h.com/assets/images/brute-1.png)
+
+
+# Post
+I wrote a post about this script ![here](https://posts.xh4h.com/python/2019/08/09/bruteforce64bits.html)
